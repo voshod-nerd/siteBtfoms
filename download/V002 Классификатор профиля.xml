@@ -1,0 +1,189 @@
+<root>
+<rec DATEBEG="01.01.2011" DATEEND="0" IDPR="1" PRNAME="хирургии (абдоминальной)"/>
+<rec DATEBEG="01.01.2011" DATEEND="08.07.2013" IDPR="2" PRNAME="акушерству и гинекологии"/>
+<rec DATEBEG="01.01.2011" DATEEND="0" IDPR="3" PRNAME="акушерскому делу"/>
+<rec DATEBEG="01.01.2011" DATEEND="0" IDPR="4" PRNAME="аллергологии и иммунологии"/>
+<rec DATEBEG="01.01.2011" DATEEND="0" IDPR="5" PRNAME="анестезиологии и реаниматологии"/>
+<rec DATEBEG="01.01.2011" DATEEND="0" IDPR="6" PRNAME="бактериологии"/>
+<rec DATEBEG="01.01.2011" DATEEND="0" IDPR="7" PRNAME="вирусологии"/>
+<rec DATEBEG="01.01.2011" DATEEND="0" IDPR="8" PRNAME="военно-врачебной экспертизе"/>
+<rec DATEBEG="01.01.2011" DATEEND="08.07.2013" IDPR="9" PRNAME="восстановительной медицине"/>
+<rec DATEBEG="01.01.2011" DATEEND="0" IDPR="10" PRNAME="врачебно-летной экспертизе"/>
+<rec DATEBEG="01.01.2011" DATEEND="0" IDPR="11" PRNAME="гастроэнтерологии"/>
+<rec DATEBEG="01.01.2011" DATEEND="0" IDPR="12" PRNAME="гематологии"/>
+<rec DATEBEG="01.01.2011" DATEEND="0" IDPR="13" PRNAME="генетике"/>
+<rec DATEBEG="01.01.2011" DATEEND="0" IDPR="14" PRNAME="гериатрии"/>
+<rec DATEBEG="01.01.2011" DATEEND="0" IDPR="15" PRNAME="гистологии"/>
+<rec DATEBEG="01.01.2011" DATEEND="0" IDPR="16" PRNAME="дерматовенерологии"/>
+<rec DATEBEG="01.01.2011" DATEEND="0" IDPR="17" PRNAME="детской кардиологии"/>
+<rec DATEBEG="01.01.2011" DATEEND="0" IDPR="18" PRNAME="детской онкологии"/>
+<rec DATEBEG="01.01.2011" DATEEND="0" IDPR="19" PRNAME="детской урологии-андрологии"/>
+<rec DATEBEG="01.01.2011" DATEEND="0" IDPR="20" PRNAME="детской хирургии"/>
+<rec DATEBEG="01.01.2011" DATEEND="0" IDPR="21" PRNAME="детской эндокринологии"/>
+<rec DATEBEG="01.01.2011" DATEEND="0" IDPR="22" PRNAME="диабетологии"/>
+<rec DATEBEG="01.01.2011" DATEEND="0" IDPR="23" PRNAME="диетологии"/>
+<rec DATEBEG="01.01.2011" DATEEND="08.07.2013" IDPR="24" PRNAME="забору, хранению донорской спермы"/>
+<rec DATEBEG="01.01.2011" DATEEND="08.07.2013" IDPR="25" PRNAME="забору, хранению органов и тканей человека для трансплантации"/>
+<rec DATEBEG="01.01.2011" DATEEND="08.07.2013" IDPR="26" PRNAME="забору, заготовке, хранению донорской крови и ее компонентов"/>
+<rec DATEBEG="01.01.2011" DATEEND="0" IDPR="27" PRNAME="забору гемопоэтических стволовых клеток"/>
+<rec DATEBEG="01.01.2011" DATEEND="0" IDPR="28" PRNAME="инфекционным болезням"/>
+<rec DATEBEG="01.01.2011" DATEEND="0" IDPR="29" PRNAME="кардиологии"/>
+<rec DATEBEG="01.01.2011" DATEEND="0" IDPR="30" PRNAME="колопроктологии"/>
+<rec DATEBEG="01.01.2011" DATEEND="08.07.2013" IDPR="31" PRNAME="контролю качества медицинской помощи"/>
+<rec DATEBEG="01.01.2011" DATEEND="08.07.2013" IDPR="32" PRNAME="косметологии (терапевтической)"/>
+<rec DATEBEG="01.01.2011" DATEEND="08.07.2013" IDPR="33" PRNAME="косметологии (хирургической)"/>
+<rec DATEBEG="01.01.2011" DATEEND="0" IDPR="34" PRNAME="клинической лабораторной диагностике"/>
+<rec DATEBEG="01.01.2011" DATEEND="0" IDPR="35" PRNAME="клинической микологии"/>
+<rec DATEBEG="01.01.2011" DATEEND="0" IDPR="36" PRNAME="клинической фармакологии"/>
+<rec DATEBEG="01.01.2011" DATEEND="0" IDPR="37" PRNAME="лабораторному делу"/>
+<rec DATEBEG="01.01.2011" DATEEND="0" IDPR="38" PRNAME="лабораторной диагностике"/>
+<rec DATEBEG="01.01.2011" DATEEND="0" IDPR="39" PRNAME="лабораторной микологии"/>
+<rec DATEBEG="01.01.2011" DATEEND="0" IDPR="40" PRNAME="лабораторной генетике"/>
+<rec DATEBEG="01.01.2011" DATEEND="0" IDPR="41" PRNAME="лечебной физкультуре и спортивной медицине"/>
+<rec DATEBEG="01.01.2011" DATEEND="0" IDPR="42" PRNAME="лечебному делу"/>
+<rec DATEBEG="01.01.2011" DATEEND="0" IDPR="43" PRNAME="мануальной терапии"/>
+<rec DATEBEG="01.01.2011" DATEEND="08.07.2013" IDPR="44" PRNAME="медицинской биохимии"/>
+<rec DATEBEG="01.01.2011" DATEEND="0" IDPR="45" PRNAME="медицинской генетике"/>
+<rec DATEBEG="01.01.2011" DATEEND="0" IDPR="46" PRNAME="медицинскому массажу"/>
+<rec DATEBEG="01.01.2011" DATEEND="0" IDPR="47" PRNAME="медицинской оптике"/>
+<rec DATEBEG="01.01.2011" DATEEND="0" IDPR="48" PRNAME="медицинским осмотрам (предварительным, периодическим)"/>
+<rec DATEBEG="01.01.2011" DATEEND="0" IDPR="49" PRNAME="медицинским осмотрам (предрейсовым, послерейсовым)"/>
+<rec DATEBEG="01.01.2011" DATEEND="0" IDPR="50" PRNAME="медицинским осмотрам (предполетным, послеполетным)"/>
+<rec DATEBEG="01.01.2011" DATEEND="0" IDPR="51" PRNAME="медицинской статистике"/>
+<rec DATEBEG="01.01.2011" DATEEND="08.07.2013" IDPR="52" PRNAME="медицинскому (наркологическому) освидетельствованию"/>
+<rec DATEBEG="01.01.2011" DATEEND="0" IDPR="53" PRNAME="неврологии"/>
+<rec DATEBEG="01.01.2011" DATEEND="0" IDPR="54" PRNAME="нейрохирургии"/>
+<rec DATEBEG="01.01.2011" DATEEND="0" IDPR="55" PRNAME="неонатологии"/>
+<rec DATEBEG="01.01.2011" DATEEND="0" IDPR="56" PRNAME="нефрологии"/>
+<rec DATEBEG="01.01.2011" DATEEND="0" IDPR="57" PRNAME="общей врачебной практике (семейной медицине)"/>
+<rec DATEBEG="01.01.2011" DATEEND="0" IDPR="58" PRNAME="общей практике"/>
+<rec DATEBEG="01.01.2011" DATEEND="08.07.2013" IDPR="59" PRNAME="общественному здоровью и организации здравоохранения"/>
+<rec DATEBEG="01.01.2011" DATEEND="0" IDPR="60" PRNAME="онкологии"/>
+<rec DATEBEG="01.01.2011" DATEEND="0" IDPR="61" PRNAME="операционному делу"/>
+<rec DATEBEG="01.01.2011" DATEEND="0" IDPR="62" PRNAME="организации сестринского дела"/>
+<rec DATEBEG="01.01.2011" DATEEND="0" IDPR="63" PRNAME="ортодонтии"/>
+<rec DATEBEG="01.01.2011" DATEEND="08.07.2013" IDPR="64" PRNAME="оториноларингологии"/>
+<rec DATEBEG="01.01.2011" DATEEND="0" IDPR="65" PRNAME="офтальмологии"/>
+<rec DATEBEG="01.01.2011" DATEEND="0" IDPR="66" PRNAME="паразитологии"/>
+<rec DATEBEG="01.01.2011" DATEEND="0" IDPR="67" PRNAME="патологической анатомии"/>
+<rec DATEBEG="01.01.2011" DATEEND="0" IDPR="68" PRNAME="педиатрии"/>
+<rec DATEBEG="01.01.2011" DATEEND="08.07.2013" IDPR="69" PRNAME="применению клеточных технологий"/>
+<rec DATEBEG="01.01.2011" DATEEND="08.07.2013" IDPR="70" PRNAME="применению методов традиционной медицины"/>
+<rec DATEBEG="01.01.2011" DATEEND="0" IDPR="71" PRNAME="профпатологии"/>
+<rec DATEBEG="01.01.2011" DATEEND="0" IDPR="72" PRNAME="психиатрии"/>
+<rec DATEBEG="01.01.2011" DATEEND="0" IDPR="73" PRNAME="психиатрии-наркологии"/>
+<rec DATEBEG="01.01.2011" DATEEND="0" IDPR="74" PRNAME="психотерапии"/>
+<rec DATEBEG="01.01.2011" DATEEND="0" IDPR="75" PRNAME="пульмонологии"/>
+<rec DATEBEG="01.01.2011" DATEEND="0" IDPR="76" PRNAME="радиологии"/>
+<rec DATEBEG="01.01.2011" DATEEND="0" IDPR="77" PRNAME="ревматологии"/>
+<rec DATEBEG="01.01.2011" DATEEND="0" IDPR="78" PRNAME="рентгенологии"/>
+<rec DATEBEG="01.01.2011" DATEEND="0" IDPR="79" PRNAME="рефлексотерапии"/>
+<rec DATEBEG="01.01.2011" DATEEND="0" IDPR="80" PRNAME="сексологии"/>
+<rec DATEBEG="01.01.2011" DATEEND="0" IDPR="81" PRNAME="сердечно-сосудистой хирургии"/>
+<rec DATEBEG="01.01.2011" DATEEND="0" IDPR="82" PRNAME="сестринскому делу"/>
+<rec DATEBEG="01.01.2011" DATEEND="0" IDPR="83" PRNAME="сестринскому делу в педиатрии"/>
+<rec DATEBEG="01.01.2011" DATEEND="0" IDPR="84" PRNAME="скорой медицинской помощи"/>
+<rec DATEBEG="01.01.2011" DATEEND="0" IDPR="85" PRNAME="стоматологии"/>
+<rec DATEBEG="01.01.2011" DATEEND="0" IDPR="86" PRNAME="стоматологии детской"/>
+<rec DATEBEG="01.01.2011" DATEEND="0" IDPR="87" PRNAME="стоматологии профилактической"/>
+<rec DATEBEG="01.01.2011" DATEEND="0" IDPR="88" PRNAME="стоматологии ортопедической"/>
+<rec DATEBEG="01.01.2011" DATEEND="0" IDPR="89" PRNAME="стоматологии терапевтической"/>
+<rec DATEBEG="01.01.2011" DATEEND="0" IDPR="90" PRNAME="стоматологии хирургической"/>
+<rec DATEBEG="01.01.2011" DATEEND="0" IDPR="91" PRNAME="судебно-медицинской экспертизе"/>
+<rec DATEBEG="01.01.2011" DATEEND="08.07.2013" IDPR="92" PRNAME="судебно-медицинской экспертизе вещественных доказательств и исследованию биологических объектов"/>
+<rec DATEBEG="01.01.2011" DATEEND="0" IDPR="93" PRNAME="судебно-медицинской экспертизе и исследованию трупа"/>
+<rec DATEBEG="01.01.2011" DATEEND="0" IDPR="94" PRNAME="судебно-медицинской экспертизе и обследованию потерпевших, обвиняемых и других лиц"/>
+<rec DATEBEG="01.01.2011" DATEEND="0" IDPR="95" PRNAME="судебно-психиатрической экспертизе"/>
+<rec DATEBEG="01.01.2011" DATEEND="0" IDPR="96" PRNAME="сурдологии-оториноларингологии"/>
+<rec DATEBEG="01.01.2011" DATEEND="0" IDPR="97" PRNAME="терапии"/>
+<rec DATEBEG="01.01.2011" DATEEND="0" IDPR="98" PRNAME="токсикологии"/>
+<rec DATEBEG="01.01.2011" DATEEND="0" IDPR="99" PRNAME="торакальной хирургии"/>
+<rec DATEBEG="01.01.2011" DATEEND="0" IDPR="100" PRNAME="травматологии и ортопедии"/>
+<rec DATEBEG="01.01.2011" DATEEND="08.07.2013" IDPR="101" PRNAME="транспортировке донорской крови и ее компонентов"/>
+<rec DATEBEG="01.01.2011" DATEEND="08.07.2013" IDPR="102" PRNAME="транспортировке донорской спермы"/>
+<rec DATEBEG="01.01.2011" DATEEND="0" IDPR="103" PRNAME="транспортировке гемопоэтических стволовых клеток и костного мозга"/>
+<rec DATEBEG="01.01.2011" DATEEND="0" IDPR="104" PRNAME="транспортировке органов и (или) тканей человека для трансплантации"/>
+<rec DATEBEG="01.01.2011" DATEEND="0" IDPR="105" PRNAME="трансфузиологии"/>
+<rec DATEBEG="01.01.2011" DATEEND="0" IDPR="106" PRNAME="ультразвуковой диагностике"/>
+<rec DATEBEG="01.01.2011" DATEEND="0" IDPR="107" PRNAME="управлению сестринской деятельностью"/>
+<rec DATEBEG="01.01.2011" DATEEND="0" IDPR="108" PRNAME="урологии"/>
+<rec DATEBEG="01.01.2011" DATEEND="0" IDPR="109" PRNAME="физиотерапии"/>
+<rec DATEBEG="01.01.2011" DATEEND="0" IDPR="110" PRNAME="фтизиатрии"/>
+<rec DATEBEG="01.01.2011" DATEEND="0" IDPR="111" PRNAME="функциональной диагностике"/>
+<rec DATEBEG="01.01.2011" DATEEND="0" IDPR="112" PRNAME="хирургии"/>
+<rec DATEBEG="01.01.2011" DATEEND="0" IDPR="113" PRNAME="хирургии (трансплантации органов и (или) тканей)"/>
+<rec DATEBEG="01.01.2011" DATEEND="0" IDPR="114" PRNAME="хирургии (комбустиологии)"/>
+<rec DATEBEG="01.01.2011" DATEEND="0" IDPR="115" PRNAME="хранению гемопоэтических стволовых клеток"/>
+<rec DATEBEG="01.01.2011" DATEEND="0" IDPR="116" PRNAME="челюстно-лицевой хирургии"/>
+<rec DATEBEG="01.01.2011" DATEEND="0" IDPR="117" PRNAME="экспертизе временной нетрудоспособности"/>
+<rec DATEBEG="01.01.2011" DATEEND="08.07.2013" IDPR="118" PRNAME="экспертизе на право владения оружием"/>
+<rec DATEBEG="01.01.2011" DATEEND="08.07.2013" IDPR="119" PRNAME="экспертизе наркологической"/>
+<rec DATEBEG="01.01.2011" DATEEND="0" IDPR="120" PRNAME="экспертизе профессиональной пригодности"/>
+<rec DATEBEG="01.01.2011" DATEEND="0" IDPR="121" PRNAME="экспертизе связи заболеваний с профессией"/>
+<rec DATEBEG="01.01.2011" DATEEND="0" IDPR="122" PRNAME="эндокринологии"/>
+<rec DATEBEG="01.01.2011" DATEEND="0" IDPR="123" PRNAME="эндоскопии"/>
+<rec DATEBEG="12.07.2011" DATEEND="08.07.2013" IDPR="124" PRNAME="гнойной хирургии"/>
+<rec DATEBEG="12.07.2011" DATEEND="08.07.2013" IDPR="125" PRNAME="гемодиализа"/>
+<rec DATEBEG="12.07.2011" DATEEND="08.07.2013" IDPR="126" PRNAME="химеотерапии"/>
+<rec DATEBEG="12.07.2011" DATEEND="08.07.2013" IDPR="127" PRNAME="патологии беременности"/>
+<rec DATEBEG="19.08.2011" DATEEND="08.07.2013" IDPR="128" PRNAME="для беременных и рожениц"/>
+<rec DATEBEG="19.08.2011" DATEEND="08.07.2013" IDPR="129" PRNAME="для производства абортов"/>
+<rec DATEBEG="19.08.2011" DATEEND="08.07.2013" IDPR="130" PRNAME="травматологии"/>
+<rec DATEBEG="19.08.2011" DATEEND="08.07.2013" IDPR="131" PRNAME="ортопедии"/>
+<rec DATEBEG="19.08.2011" DATEEND="08.07.2013" IDPR="132" PRNAME="посещения среднего медицинского персонала, ведущего самостоятельный прием"/>
+<rec DATEBEG="04.10.2011" DATEEND="08.07.2013" IDPR="133" PRNAME="сосудистой хирургии"/>
+<rec DATEBEG="06.10.2011" DATEEND="08.07.2013" IDPR="134" PRNAME="приёмного отделения"/>
+<rec DATEBEG="08.07.2013" DATEEND="0" IDPR="135" PRNAME="авиационной и космической медицине"/>
+<rec DATEBEG="08.07.2013" DATEEND="0" IDPR="136" PRNAME="акушерству и гинекологии (за исключением использования вспомогательных репродуктивных технологий)"/>
+<rec DATEBEG="08.07.2013" DATEEND="0" IDPR="137" PRNAME="акушерству и гинекологии (использованию вспомогательных репродуктивных технологий)"/>
+<rec DATEBEG="08.07.2013" DATEEND="0" IDPR="138" PRNAME="вакцинации (проведению профилактических прививок)"/>
+<rec DATEBEG="08.07.2013" DATEEND="0" IDPR="139" PRNAME="водолазной медицине"/>
+<rec DATEBEG="08.07.2013" DATEEND="0" IDPR="140" PRNAME="гигиене в стоматологии"/>
+<rec DATEBEG="08.07.2013" DATEEND="0" IDPR="141" PRNAME="гигиеническому воспитанию"/>
+<rec DATEBEG="08.07.2013" DATEEND="0" IDPR="142" PRNAME="дезинфектологии"/>
+<rec DATEBEG="08.07.2013" DATEEND="0" IDPR="143" PRNAME="забору, криоконсервации и хранению половых клеток и тканей репродуктивных органов"/>
+<rec DATEBEG="08.07.2013" DATEEND="0" IDPR="144" PRNAME="заготовке, хранению донорской крови и (или) ее компонентов"/>
+<rec DATEBEG="08.07.2013" DATEEND="0" IDPR="145" PRNAME="изъятию и хранению органов и (или) тканей человека для трансплантации"/>
+<rec DATEBEG="08.07.2013" DATEEND="0" IDPR="146" PRNAME="косметологии"/>
+<rec DATEBEG="08.07.2013" DATEEND="0" IDPR="147" PRNAME="лечебной физкультуре"/>
+<rec DATEBEG="08.07.2013" DATEEND="0" IDPR="148" PRNAME="медико-социальной экспертизе"/>
+<rec DATEBEG="08.07.2013" DATEEND="0" IDPR="149" PRNAME="медико-социальной помощи"/>
+<rec DATEBEG="08.07.2013" DATEEND="0" IDPR="150" PRNAME="медицинским осмотрам (предсменным, послесменным)"/>
+<rec DATEBEG="08.07.2013" DATEEND="0" IDPR="151" PRNAME="медицинским осмотрам профилактическим"/>
+<rec DATEBEG="08.07.2013" DATEEND="0" IDPR="152" PRNAME="медицинскому освидетельствованию кандидатов в усыновители, опекуны (попечители) или приемные родители"/>
+<rec DATEBEG="08.07.2013" DATEEND="0" IDPR="153" PRNAME="медицинскому освидетельствованию на выявление ВИЧ-инфекции"/>
+<rec DATEBEG="08.07.2013" DATEEND="0" IDPR="154" PRNAME="медицинскому освидетельствованию на наличие инфекционных заболеваний, представляющих опасность для окружающих и являющихся основанием для отказа иностранным гражданам и лицам без гражданства в выдаче либо аннулировании разрешения на временное проживание,"/>
+<rec DATEBEG="08.07.2013" DATEEND="0" IDPR="155" PRNAME="медицинскому освидетельствованию на наличие медицинских противопоказаний к управлению транспортным средством"/>
+<rec DATEBEG="08.07.2013" DATEEND="0" IDPR="156" PRNAME="медицинскому освидетельствованию на наличие медицинских противопоказаний к владению оружием"/>
+<rec DATEBEG="08.07.2013" DATEEND="0" IDPR="157" PRNAME="медицинскому освидетельствованию на состояние опьянения (алкогольного, наркотического или иного токсического)"/>
+<rec DATEBEG="08.07.2013" DATEEND="0" IDPR="158" PRNAME="медицинской реабилитации"/>
+<rec DATEBEG="08.07.2013" DATEEND="0" IDPR="159" PRNAME="наркологии"/>
+<rec DATEBEG="08.07.2013" DATEEND="0" IDPR="160" PRNAME="неотложной медицинской помощи"/>
+<rec DATEBEG="08.07.2013" DATEEND="0" IDPR="161" PRNAME="организации здравоохранения и общественному здоровью"/>
+<rec DATEBEG="08.07.2013" DATEEND="0" IDPR="162" PRNAME="оториноларингологии (за исключением кохлеарной имплантации)"/>
+<rec DATEBEG="08.07.2013" DATEEND="0" IDPR="163" PRNAME="оториноларингологии (кохлеарной имплантации)"/>
+<rec DATEBEG="08.07.2013" DATEEND="0" IDPR="164" PRNAME="пластической хирургии"/>
+<rec DATEBEG="08.07.2013" DATEEND="0" IDPR="165" PRNAME="психиатрическому освидетельствованию"/>
+<rec DATEBEG="08.07.2013" DATEEND="0" IDPR="166" PRNAME="радиотерапии"/>
+<rec DATEBEG="08.07.2013" DATEEND="0" IDPR="167" PRNAME="реаниматологии"/>
+<rec DATEBEG="08.07.2013" DATEEND="0" IDPR="168" PRNAME="рентгенэндоваскулярной диагностике и лечению"/>
+<rec DATEBEG="08.07.2013" DATEEND="0" IDPR="169" PRNAME="санитарно-гигиеническим лабораторным исследованиям"/>
+<rec DATEBEG="08.07.2013" DATEEND="0" IDPR="170" PRNAME="сестринскому делу в косметологии"/>
+<rec DATEBEG="08.07.2013" DATEEND="0" IDPR="171" PRNAME="стоматологии общей практики"/>
+<rec DATEBEG="08.07.2013" DATEEND="0" IDPR="172" PRNAME="судебно-медицинской экспертизе вещественных доказательств и исследованию биологических объектов (биохимической, генетической, медико-криминалистической, спектрографической, судебно-биологической, судебно-гистологической, судебно-химической, судебно-цитол"/>
+<rec DATEBEG="08.07.2013" DATEEND="0" IDPR="173" PRNAME="однородной амбулаторной судебно-психиатрической экспертизе"/>
+<rec DATEBEG="08.07.2013" DATEEND="0" IDPR="174" PRNAME="комплексной амбулаторной судебно-психиатрической экспертизе"/>
+<rec DATEBEG="08.07.2013" DATEEND="0" IDPR="175" PRNAME="однородной стационарной судебно-психиатрической экспертизе"/>
+<rec DATEBEG="08.07.2013" DATEEND="0" IDPR="176" PRNAME="комплексной стационарной судебно-психиатрической экспертизе (психолого-психиатрической, сексолого-психиатрической)"/>
+<rec DATEBEG="08.07.2013" DATEEND="0" IDPR="177" PRNAME="трансплантации костного мозга и гемопоэтических стволовых клеток"/>
+<rec DATEBEG="08.07.2013" DATEEND="0" IDPR="178" PRNAME="транспортировке половых клеток и (или) тканей репродуктивных органов"/>
+<rec DATEBEG="08.07.2013" DATEEND="0" IDPR="179" PRNAME="хирургии (трансплантации органов и (или) тканей)"/>
+<rec DATEBEG="08.07.2013" DATEEND="0" IDPR="180" PRNAME="экспертизе качества медицинской помощи"/>
+<rec DATEBEG="08.07.2013" DATEEND="0" IDPR="181" PRNAME="энтомологии"/>
+<rec DATEBEG="08.07.2013" DATEEND="0" IDPR="182" PRNAME="эпидемиологии"/>
+<rec DATEBEG="0" DATEEND="0" IDPR="0" PRNAME=""/>
+<rec DATEBEG="0" DATEEND="0" IDPR="0" PRNAME=""/>
+<rec DATEBEG="0" DATEEND="0" IDPR="0" PRNAME=""/>
+<rec DATEBEG="0" DATEEND="0" IDPR="0" PRNAME=""/>
+<rec DATEBEG="0" DATEEND="0" IDPR="0" PRNAME=""/>
+</root>

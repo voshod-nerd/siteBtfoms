@@ -1,0 +1,24 @@
+<root>
+<rec DATEBEG="01.01.2011" DATEEND="0" DOCNAME="Паспорт гражданина СССР" DOCNUM="999999" DOCSER="R-ББ" IDDOC="1"/>
+<rec DATEBEG="01.01.2011" DATEEND="0" DOCNAME="Загранпаспорт гражданина СССР" DOCNUM="00000009" DOCSER="S" IDDOC="2"/>
+<rec DATEBEG="01.01.2011" DATEEND="0" DOCNAME="Свидетельство о рождении, выданное в Российской Федерации" DOCNUM="999999" DOCSER="R-ББ" IDDOC="3"/>
+<rec DATEBEG="01.01.2011" DATEEND="0" DOCNAME="Удостоверение личности офицера" DOCNUM="9999999" DOCSER="ББ" IDDOC="4"/>
+<rec DATEBEG="01.01.2011" DATEEND="0" DOCNAME="Справка об освобождении из места лишения свободы" DOCNUM="00000009" DOCSER="S" IDDOC="5"/>
+<rec DATEBEG="01.01.2011" DATEEND="0" DOCNAME="Паспорт Минморфлота" DOCNUM="999999" DOCSER="ББ" IDDOC="6"/>
+<rec DATEBEG="01.01.2011" DATEEND="0" DOCNAME="Военный билет" DOCNUM="9999990" DOCSER="ББ" IDDOC="7"/>
+<rec DATEBEG="01.01.2011" DATEEND="0" DOCNAME="Дипломатический паспорт гражданина Российской Федерации" DOCNUM="9999999" DOCSER="99" IDDOC="8"/>
+<rec DATEBEG="01.01.2011" DATEEND="0" DOCNAME="Паспорт иностранного гражданина" DOCNUM="0000000009" DOCSER="S" IDDOC="9"/>
+<rec DATEBEG="01.01.2011" DATEEND="0" DOCNAME="Свидетельство о регистрации ходатайства о признании иммигранта беженцем на территории Российской Федерации" DOCNUM="00000009" DOCSER="S" IDDOC="10"/>
+<rec DATEBEG="01.01.2011" DATEEND="0" DOCNAME="Вид на жительство" DOCNUM="00000009" DOCSER="S1" IDDOC="11"/>
+<rec DATEBEG="01.01.2011" DATEEND="0" DOCNAME="Удостоверение беженца в Российской Федерации" DOCNUM="00000009" DOCSER="S" IDDOC="12"/>
+<rec DATEBEG="01.01.2011" DATEEND="0" DOCNAME="Временное удостоверение личности гражданина Российской Федерации" DOCNUM="00000009" DOCSER="S" IDDOC="13"/>
+<rec DATEBEG="01.01.2011" DATEEND="0" DOCNAME="Паспорт гражданина Российской Федерации" DOCNUM="9999990" DOCSER="99 99" IDDOC="14"/>
+<rec DATEBEG="01.01.2011" DATEEND="0" DOCNAME="Заграничный паспорт гражданина Российской Федерации" DOCNUM="9999999" DOCSER="99" IDDOC="15"/>
+<rec DATEBEG="01.01.2011" DATEEND="0" DOCNAME="Паспорт моряка" DOCNUM="9999990" DOCSER="ББ" IDDOC="16"/>
+<rec DATEBEG="01.01.2011" DATEEND="0" DOCNAME="Военный билет офицера запаса" DOCNUM="999999" DOCSER="ББ" IDDOC="17"/>
+<rec DATEBEG="01.01.2011" DATEEND="0" DOCNAME="Иные документы" DOCNUM="0000000009" DOCSER="S1" IDDOC="18"/>
+<rec DATEBEG="04.07.2013" DATEEND="0" DOCNAME="Документ иностранного гражданина" DOCNUM="000000000009" DOCSER="S1" IDDOC="21"/>
+<rec DATEBEG="04.07.2013" DATEEND="0" DOCNAME="Документ лица без гражданства" DOCNUM="000000000009" DOCSER="S1" IDDOC="22"/>
+<rec DATEBEG="04.07.2013" DATEEND="0" DOCNAME="Разрешение на временное проживание" DOCNUM="000000000009" DOCSER="S1" IDDOC="23"/>
+<rec DATEBEG="04.07.2013" DATEEND="0" DOCNAME="Свидетельство о рождении, выданное не в Российской Федерации" DOCNUM="000000000009" DOCSER="S1" IDDOC="24"/>
+</root>
